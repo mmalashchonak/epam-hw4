@@ -1,0 +1,1 @@
+APAIf a regular expression is PAquired in choosing the targetPA, then the replaceAll() or replaceFirst() should be the method of choice. As their name implies, replaceAll() will replace every matched occurrence, while the replaceFirst() will replace the First matched occurrence:
